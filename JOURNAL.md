@@ -10,3 +10,18 @@ This is my journal of the design and building process of **cboard**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/63).
 
 
+## 10/3/2025 - schematic DONE  
+
+RP2040 custom dev board
+i followed the [guide](https://blueprint.hackclub.com/guides/devboard) its very esay to follow and simple 
+So i added
+RP2040
+capacitors
+usb c
+crystal oscillator
+Flash storage
+Breaking out I/O Headers
+now i have to add the footprints and make the pcb and route
+
+![Screenshot from 2025-10-03 21-15-05.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAzLCJwdXIiOiJibG9iX2lkIn19--788256749cf4400cc64cb2e10344c4cc0d5efa6b/Screenshot%20from%202025-10-03%2021-15-05.png)  
+
